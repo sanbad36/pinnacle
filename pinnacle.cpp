@@ -11,8 +11,7 @@
  * d) Display list in reverse order using recursion
  * e) Two linked lists exists for two divisions. Concatenate two lists.
  * 
- * Roshan Maind    
- * (S2 - 34)
+ * 
  */
 
 
